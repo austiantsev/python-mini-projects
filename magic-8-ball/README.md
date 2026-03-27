@@ -9,4 +9,4 @@ Console and GUI application that returns random answers to user questions.
 ## How to run
 
 ```bash
-Magic_ball_8_CLI.py or Magic_ball_8_GUI_version.py
+Magic_ball_8_CLI.py or Magic_ball_8_GUI.py
