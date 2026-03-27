@@ -1,9 +1,3 @@
-
----
-
-## 📄 word-guess / hangman
-
-```md
 # Hangman Game
 
 Classic word guessing game played in the console.
