@@ -1,16 +1,11 @@
-
----
-
-## 📄 number-guess/README.md
-
-```md
 # Number Guessing Game
 
-User tries to guess a random number within a given range.
+User tries to guess a randomly generated number.
 
 ## Features
-- customizable range
-- user input validation
+- customizable number range
+- hints (higher / lower)
+- input validation
 
 ## How to run
 
