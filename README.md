@@ -14,3 +14,10 @@ Collection of small Python projects created while learning programming.
 - functions
 - working with user input
 - random module
+
+## How to run
+
+Each project can be run from the command line:
+
+```bash
+python filename.py
