@@ -1,9 +1,3 @@
-
----
-
-## 📄 caesar-cipher/README.md
-
-```md
 # Caesar Cipher
 
 Simple text encryption and decryption using Caesar cipher algorithm.
